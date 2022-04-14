@@ -331,7 +331,7 @@ return (
         )}
       </div>
          <div>
-          <img className={styles.image} src="./0.svg" />
+          <img className={styles.image} src="./1.svg" />
         </div>
     </div>
 
